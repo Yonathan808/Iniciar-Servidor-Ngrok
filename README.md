@@ -41,6 +41,9 @@ ngrok http 80
 ```bash
 python3 -m http.server 80
 ```
+3. **Visualizar Interfaz Web**
+
+http://127.0.0.1:4040
 
 ---
 
